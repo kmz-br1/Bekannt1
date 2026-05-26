@@ -1,0 +1,15 @@
+#: locale=de
+
+## Media
+
+### Titel
+panorama_689901A9_634D_5B74_41B0_756B8BEAB58A.label = streetview_5DFMJL7PUEMMg93NG9Olgg_high
+panorama_684FE1F0_634D_FAD5_41BD_DF9CDCA7013C.label = streetview_8rsLnB9-o_Rr6dNTEXJ9xQ_high
+panorama_68CC7054_634B_59DC_41D0_78CF8ABB6026.label = streetview_uzVlUkLkFBjFrcl79iBcQg_high
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Bekannt1
